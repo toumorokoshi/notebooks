@@ -6,5 +6,5 @@ def main(build):
     build.packages.install("jupyter")
     build.packages.install("matplotlib")
     build.packages.install("marshmallow")
-    build.packages.install("plotly")
     build.packages.install("schematics")
+    build.packages.install("tabulate")
