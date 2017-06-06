@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+.uranium
+bin
+include
+pip-selfcheck.json
+share
