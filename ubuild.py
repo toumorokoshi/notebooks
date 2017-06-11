@@ -8,3 +8,4 @@ def main(build):
     build.packages.install("marshmallow")
     build.packages.install("schematics")
     build.packages.install("tabulate")
+    build.packages.install("pydantic")
