@@ -7,6 +7,7 @@ def main(build):
     build.packages.install("gunicorn")
     build.packages.install("jupyter")
     build.packages.install("matplotlib")
+    build.packages.install("toastedmarshmallow")
     build.packages.install("marshmallow")
     build.packages.install("pydantic")
     build.packages.install("schematics")
